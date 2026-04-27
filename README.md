@@ -16,7 +16,3 @@ By completing this project, I will have demonstrated:
 - Adding images to a webpage
 - Organizing files and folders properly
 - Writing clean and readable code
-
-## Reflection (Optional)
-
-This section will be updated after completing the project to reflect on what I learned and areas for improvement.
